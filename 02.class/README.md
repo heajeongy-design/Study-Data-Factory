@@ -5,6 +5,7 @@
 <img width="1670" height="196" alt="image" src="https://github.com/user-attachments/assets/2c5daa59-a610-4c45-b4f4-e8f4ad4b0b9c" />
 
 
+
 ## 2. SQL database 만들기  
 
 <img width="673" height="656" alt="image" src="https://github.com/user-attachments/assets/580fea12-470a-4ca8-b3ed-1095efda0ccb" />
